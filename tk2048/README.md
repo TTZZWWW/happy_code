@@ -1,3 +1,8 @@
+This a funny game called 2048, write your AI code in game.py if you want and see how it works.
+There is already an algorithm written by me which can generally reach 512, sometimes 1024, and in rare cases 2048.
+
+The origin source code is copied from Gabriele Cirulli's 2048 puzzle game:   
+  
     Gabriele Cirulli's 2048 puzzle game.
 
     Python3/tkinter port by Raphaël Seban <motus@laposte.net>
